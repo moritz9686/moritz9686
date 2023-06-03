@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Chaudhry</h1>
+<h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
 <h3 align="center">A passionate SDE developer from India</h3>
 
 - 🔭 I’m currently working on [Socialmedia website](https://github.com/moritz9686/MoritzPedia)
